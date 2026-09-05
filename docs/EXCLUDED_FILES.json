@@ -1,0 +1,650 @@
+{
+  "scope": "Exact external asset paths only. Private IDE/cache paths are summarized to avoid publishing identifying metadata.",
+  "external_assets": [
+    {
+      "path": "Assets/Doors.meta",
+      "size_bytes": 172,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Materials.meta",
+      "size_bytes": 172,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Materials/door.mat",
+      "size_bytes": 2834,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Materials/door.mat.meta",
+      "size_bytes": 347,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Materials/door_frame.mat",
+      "size_bytes": 2841,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Materials/door_frame.mat.meta",
+      "size_bytes": 353,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Models.meta",
+      "size_bytes": 172,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Models/door.FBX",
+      "size_bytes": 33216,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Models/door.FBX.meta",
+      "size_bytes": 3054,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Models/door_frame.FBX",
+      "size_bytes": 27872,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Models/door_frame.FBX.meta",
+      "size_bytes": 3060,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Prefabs.meta",
+      "size_bytes": 172,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Prefabs/door.prefab",
+      "size_bytes": 2419,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Prefabs/door.prefab.meta",
+      "size_bytes": 348,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Prefabs/door_frame.prefab",
+      "size_bytes": 2425,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Prefabs/door_frame.prefab.meta",
+      "size_bytes": 354,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Textures.meta",
+      "size_bytes": 172,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Textures/door_d.png",
+      "size_bytes": 353747,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Textures/door_d.png.meta",
+      "size_bytes": 2819,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Textures/door_frame.png",
+      "size_bytes": 425119,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Doors/Textures/door_frame.png.meta",
+      "size_bytes": 2823,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Materials/Ch10_1001_Diffuse.mat",
+      "size_bytes": 3929,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Materials/Ch10_1001_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Materials/Ch10_1002_Diffuse.mat",
+      "size_bytes": 3929,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Materials/Ch10_1002_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm.meta",
+      "size_bytes": 172,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Diffuse.png",
+      "size_bytes": 15042280,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Glossiness.png",
+      "size_bytes": 7470174,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Glossiness.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Normal.png",
+      "size_bytes": 24807800,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Specular.png",
+      "size_bytes": 58789,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1001_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Diffuse.png",
+      "size_bytes": 22789298,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Glossiness.png",
+      "size_bytes": 8452267,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Glossiness.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Normal.png",
+      "size_bytes": 29301075,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Specular.png",
+      "size_bytes": 139207,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbm/Ch10_1002_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbx",
+      "size_bytes": 110587680,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Ch10_nonPBR.fbx.meta",
+      "size_bytes": 2784,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Old Man Idle.fbx",
+      "size_bytes": 925856,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Old Man Idle.fbx.meta",
+      "size_bytes": 31958,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Running (1).fbx",
+      "size_bytes": 372576,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Running (1).fbx.meta",
+      "size_bytes": 31957,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Walking (2).fbx",
+      "size_bytes": 386288,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Monster/Walking (2).fbx.meta",
+      "size_bytes": 31957,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Idle (1).fbx",
+      "size_bytes": 785040,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Idle (1).fbx.meta",
+      "size_bytes": 33443,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials.meta",
+      "size_bytes": 172,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Body_Diffuse.mat",
+      "size_bytes": 3917,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Body_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Bottom_Diffuse.mat",
+      "size_bytes": 3919,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Bottom_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Hair_Diffuse.mat",
+      "size_bytes": 4012,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Hair_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Shoes_Diffuse.mat",
+      "size_bytes": 3918,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Shoes_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Top_Diffuse.mat",
+      "size_bytes": 3916,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Materials/Remy_Top_Diffuse.mat.meta",
+      "size_bytes": 188,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm.meta",
+      "size_bytes": 172,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Diffuse.png",
+      "size_bytes": 4502121,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Gloss.png",
+      "size_bytes": 2786109,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Gloss.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Normal.png",
+      "size_bytes": 3570002,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Opacity.png",
+      "size_bytes": 54744,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Opacity.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Specular.png",
+      "size_bytes": 2260608,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Body_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Diffuse.png",
+      "size_bytes": 1336582,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Gloss.png",
+      "size_bytes": 803371,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Gloss.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Normal.png",
+      "size_bytes": 1978091,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Specular.png",
+      "size_bytes": 312494,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Bottom_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Diffuse.png",
+      "size_bytes": 674487,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Gloss.png",
+      "size_bytes": 98650,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Gloss.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Normal.png",
+      "size_bytes": 186982,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Opacity.png",
+      "size_bytes": 545031,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Opacity.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Specular.png",
+      "size_bytes": 98209,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Hair_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Diffuse.png",
+      "size_bytes": 1184808,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Gloss.png",
+      "size_bytes": 639253,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Gloss.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Normal.png",
+      "size_bytes": 2294405,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Specular.png",
+      "size_bytes": 353868,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Shoes_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Diffuse.png",
+      "size_bytes": 976247,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Diffuse.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Gloss.png",
+      "size_bytes": 489180,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Gloss.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Normal.png",
+      "size_bytes": 1199577,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Normal.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Specular.png",
+      "size_bytes": 162644,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbm/Remy_Top_Specular.png.meta",
+      "size_bytes": 2652,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbx",
+      "size_bytes": 28338736,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Remy.fbx.meta",
+      "size_bytes": 32581,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Running.fbx",
+      "size_bytes": 330816,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Running.fbx.meta",
+      "size_bytes": 33442,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Walking (1).fbx",
+      "size_bytes": 362784,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Player/Walking (1).fbx.meta",
+      "size_bytes": 33442,
+      "category": "C"
+    },
+    {
+      "path": "Assets/Sounds.meta",
+      "size_bytes": 172,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/BGM.mp3",
+      "size_bytes": 20302560,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/BGM.mp3.meta",
+      "size_bytes": 485,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Chase.aiff",
+      "size_bytes": 7541670,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Chase.aiff.meta",
+      "size_bytes": 485,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Running.wav",
+      "size_bytes": 1355634,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Running.wav.meta",
+      "size_bytes": 485,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Walking_1.wav",
+      "size_bytes": 9545566,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Walking_1.wav.meta",
+      "size_bytes": 485,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Walking_2.wav",
+      "size_bytes": 46888,
+      "category": "B"
+    },
+    {
+      "path": "Assets/Sounds/Walking_2.wav.meta",
+      "size_bytes": 485,
+      "category": "B"
+    }
+  ],
+  "other_exclusions": [
+    {
+      "pattern": ".vs/",
+      "reason": "IDE cache and private layout metadata"
+    },
+    {
+      "pattern": "UserSettings/",
+      "reason": "Unity user settings"
+    },
+    {
+      "pattern": "*.csproj / *.sln / .vsconfig / UpgradeLog.htm",
+      "reason": "Generated IDE files and historical identifiers"
+    }
+  ],
+  "historical_web_build": {
+    "path": "Web_build/",
+    "file_count": 17,
+    "size_bytes": 107429867,
+    "status": "Historical pre-fix output; preserved privately; excluded from source publication."
+  }
+}

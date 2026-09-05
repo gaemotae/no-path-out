@@ -1,0 +1,80 @@
+# Unity-generated caches. Assets, Packages and ProjectSettings are retained.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated projects, caches and user preferences.
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.VC.db
+*.opendb
+*.DotSettings.user
+/.vsconfig
+/ExportedObj/
+/UpgradeLog.htm
+/UpgradeLog*.XML
+
+# Local builds; Web_build is the historical output before the minimal fixes.
+/[Bb]uild/
+/[Bb]uilds/
+/Web_build/
+
+# OS metadata and local signing material (not required by the source snapshot).
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+
+# Publication boundary: retain project-made Animator Controllers and their GUIDs.
+# Raw models, clips, textures and imported materials are not approved for sharing.
+/Assets/Monster/*
+!/Assets/Monster/Monster Animator Controller.controller
+!/Assets/Monster/Monster Animator Controller.controller.meta
+/Assets/Player/*
+!/Assets/Player/Player Animator Controller.controller
+!/Assets/Player/Player Animator Controller.controller.meta
+
+# Unverified third-party door bundle, monster materials and sounds.
+/Assets/Doors/
+/Assets/Doors.meta
+/Assets/Materials/Ch10_1001_Diffuse.mat
+/Assets/Materials/Ch10_1001_Diffuse.mat.meta
+/Assets/Materials/Ch10_1002_Diffuse.mat
+/Assets/Materials/Ch10_1002_Diffuse.mat.meta
+/Assets/Sounds/
+/Assets/Sounds.meta
+
+# Original archives, private copies and course submission reports are not uploads.
+/*.zip
+/*.ppt
+/*.pptx
+/*_PRIVATE/
+/publication_reference/
+/publication_audit/
+
+# No global *.meta / *.asset exclusion: retain scene GUIDs, baked NavMesh,
+# scripts, prefabs, Animator Controllers, CC0 textures and the OFL font + notice.
