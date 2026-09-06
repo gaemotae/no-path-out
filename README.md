@@ -105,7 +105,11 @@ Start 화면에서 클릭하면 Playing으로 전환합니다. NPC는 Patrol →
 
 ## Web Play
 
-**준비 중.** 기존 Web_build는 최소 수정 이전의 제작 당시 결과물로 별도 보존합니다. 저장소에는 포함하지 않으며 최신 수정본의 플레이 링크로 소개하지 않습니다. 새 WebGL 빌드·배포는 외부 리소스의 게임 배포 조건을 확인한 뒤 별도로 진행할 예정입니다.
+**[Play NO PATH OUT in browser](https://gaemotae.github.io/no-path-out/)**
+
+Unity 6000.0.59f2의 최신 최소 수정본으로 새 Web 빌드를 생성해 `gh-pages` 브랜치에 배포했습니다. 제작자 PC의 Unity `Build And Run`에서 브라우저 플레이를 확인했고, GitHub Pages 공개 주소의 정상 로딩도 확인했습니다. 기존 제작 당시 `Web_build`는 사용하지 않았습니다.
+
+`main`에는 외부 모델·Animation FBX·Door·음원 원본을 포함하지 않으며, Web Play는 별도의 빌드 산출물만 `gh-pages`에서 제공합니다.
 
 ## External Assets / Credits
 
@@ -115,7 +119,7 @@ Start 화면에서 클릭하면 Playing으로 전환합니다. NPC는 Patrol →
 | Worn Plaster Wall의 4K Diffuse / ARM / Normal DX | [Poly Haven 개별 자산](https://polyhaven.com/a/worn_plaster_wall), Dimitrios Savva, [CC0](https://polyhaven.com/license) |
 | Bowlby One Regular | Vernon Adams, SIL Open Font License 1.1. [동봉 원문](Assets/Fonts/Bowlby_One/FontLicense.txt) 유지 |
 
-당시 제출 자료에는 Skin & Animation: Mixamo / Unity Asset Store, Audio: Freesound로 기재되어 있습니다. 개별 원본 재배포 권리를 확인할 수 없는 모델·클립·Door·음원은 제외했습니다. 게임 이용과 원본 재배포 권한을 별도로 확인합니다. [파일별 분류와 근거](docs/EXTERNAL_ASSETS.md)
+당시 제출 자료에는 Skin & Animation: Mixamo / Unity Asset Store, Audio: Freesound로 기재되어 있습니다. 개별 원본 재배포 권리를 확인할 수 없는 모델·클립·Door·음원은 `main` 소스 공개본에서 제외했습니다. Web Play는 원본 파일 공개가 아닌 빌드된 게임 산출물 형태로 제공합니다. [파일별 분류와 근거](docs/EXTERNAL_ASSETS.md)
 
 ## License
 
